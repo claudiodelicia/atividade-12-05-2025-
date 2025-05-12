@@ -1,2 +1,2 @@
 # atividade-12-05-2025-
-atividade(12/05/2025)
+Esse projeto foi feito ano passado por mim numa buscar de aprender mais sobre: html, css, javascript. Foi feito com base em alguma video aulas mas para a apresentação desse projeto retirei a ligação com o javascript( <script src="src/javascript/script.js"></script>), esse site foi feito com intuito de apredizado e o tema seria um loja de comida, um "ifood" digamos assim mas não tem nenhuma interatividade e por isso não tem funcionamento e mais a parte de front-end do site msm.
